@@ -1,0 +1,183 @@
+Unnamed: 0,gender,age_group,familiarity_with_herbal_essences,respondent_location,hair_care_routine_story,ideal_hair_care_product_message,celeb_hair_care_philosophy,current_natural_shampoo_user,motivation_to_try_herbal_essence,price_sensitivity,persona
+0,MALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Gentle-Caring,Cultural Heritage Influencers,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+1,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Naturally Healthy,Tech-Savvy Innovators,False,Evidence-Driven Motivation,Premium Product Enthusiasts,Young Digital Native
+2,FEMALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Gentle-Caring,Science Experts,True,Trust-Based Influence,Budget-Conscious Consumers,Wellness-Oriented Consumer
+3,FEMALE,18-25,Never heard of it,Not Specified,Cost-Aware,Naturally Healthy,Science Experts,True,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+4,MALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Personalization-Focused,Science Experts,False,Evidence-Driven Motivation,Mid-Range Value Seekers,Budget-Conscious Achiever
+5,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Gentle-Caring,Laid-Back Trendsetters,False,Trust-Based Influence,Mid-Range Value Seekers,Budget-Conscious Achiever
+6,FEMALE,18-25,Never heard of it,Not Specified,Exploration-Driven,Gentle-Caring,Science Experts,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Young Digital Native
+7,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Naturally Healthy,Science Experts,True,Evidence-Driven Motivation,Mid-Range Value Seekers,Wellness-Oriented Consumer
+8,Prefer not to say,18-25,Never heard of it,Not Specified,Cost-Aware,Naturally Healthy,Cultural Heritage Influencers,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+9,MALE,18-25,Never heard of it,Not Specified,Cost-Aware,Other,Other,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+10,MALE,18-25,Somewhat familiar,Not Specified,Exploration-Driven,Personalization-Focused,Tech-Savvy Innovators,False,Trust-Based Influence,Budget-Conscious Consumers,Young Digital Native
+11,MALE,18-25,Never heard of it,Not Specified,Relaxation-Seeking,Naturally Healthy,Cultural Heritage Influencers,True,Afordability,Budget-Conscious Consumers,Wellness-Oriented Consumer
+12,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Naturally Healthy,Laid-Back Trendsetters,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+13,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Naturally Healthy,Laid-Back Trendsetters,False,Evidence-Driven Motivation,Premium Product Enthusiasts,Budget-Conscious Achiever
+14,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Naturally Healthy,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+15,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Image-Driven,Laid-Back Trendsetters,False,Afordability,Quality-Oriented Buyers,Young Digital Native
+16,MALE,18-25,Somewhat familiar,Not Specified,Exploration-Driven,Gentle-Caring,Laid-Back Trendsetters,False,Evidence-Driven Motivation,Quality-Oriented Buyers,Young Digital Native
+17,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Personalization-Focused,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Mid-Range Value Seekers,Young Digital Native
+18,FEMALE,18-25,Very familiar,Not Specified,Time-Pressed,Personalization-Focused,Tech-Savvy Innovators,True,Afordability,Budget-Conscious Consumers,Young Digital Native
+19,MALE,18-25,Very familiar,Not Specified,Time-Pressed,Personalization-Focused,Other,False,Trust-Based Influence,Quality-Oriented Buyers,Young Digital Native
+20,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Naturally Healthy,Science Experts,True,Evidence-Driven Motivation,Quality-Oriented Buyers,Budget-Conscious Achiever
+21,FEMALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Naturally Healthy,Cultural Heritage Influencers,False,Trust-Based Influence,Quality-Oriented Buyers,Wellness-Oriented Consumer
+22,FEMALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Personalization-Focused,Cultural Heritage Influencers,True,Evidence-Driven Motivation,Budget-Conscious Consumers,Wellness-Oriented Consumer
+23,MALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Image-Driven,Tech-Savvy Innovators,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+24,FEMALE,18-25,Never heard of it,Not Specified,Cost-Aware,Naturally Healthy,Laid-Back Trendsetters,True,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+25,MALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Naturally Healthy,Cultural Heritage Influencers,False,Trust-Based Influence,Premium Product Enthusiasts,Wellness-Oriented Consumer
+26,FEMALE,25-40,Very familiar,Not Specified,Cost-Aware,Naturally Healthy,Science Experts,True,Evidence-Driven Motivation,Premium Product Enthusiasts,Wellness-Oriented Consumer
+27,MALE,18-25,Very familiar,Not Specified,Time-Pressed,Image-Driven,Cultural Heritage Influencers,True,Afordability,Quality-Oriented Buyers,Wellness-Oriented Consumer
+28,FEMALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Gentle-Caring,Laid-Back Trendsetters,False,Natural Product Appeal,Mid-Range Value Seekers,Budget-Conscious Achiever
+29,MALE,18-25,Somewhat familiar,Not Specified,Relaxation-Seeking,Personalization-Focused,Laid-Back Trendsetters,True,Evidence-Driven Motivation,Mid-Range Value Seekers,Wellness-Oriented Consumer
+30,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Gentle-Caring,Science Experts,False,Afordability,Quality-Oriented Buyers,Budget-Conscious Achiever
+31,FEMALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Personalization-Focused,Science Experts,False,Evidence-Driven Motivation,Premium Product Enthusiasts,Budget-Conscious Achiever
+32,FEMALE,18-25,Somewhat familiar,Not Specified,Relaxation-Seeking,Gentle-Caring,Science Experts,False,Trust-Based Influence,Mid-Range Value Seekers,Wellness-Oriented Consumer
+33,MALE,25-40,Somewhat familiar,Not Specified,Time-Pressed,Naturally Healthy,Other,False,Evidence-Driven Motivation,Mid-Range Value Seekers,Budget-Conscious Achiever
+34,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Naturally Healthy,Science Experts,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+35,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Naturally Healthy,Science Experts,False,Trust-Based Influence,Mid-Range Value Seekers,Budget-Conscious Achiever
+36,FEMALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Naturally Healthy,Science Experts,False,Trust-Based Influence,Mid-Range Value Seekers,Budget-Conscious Achiever
+37,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Personalization-Focused,Laid-Back Trendsetters,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Young Digital Native
+38,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Naturally Healthy,Other,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+39,FEMALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Naturally Healthy,Laid-Back Trendsetters,False,Trust-Based Influence,Quality-Oriented Buyers,Wellness-Oriented Consumer
+40,MALE,18-25,Somewhat familiar,Not Specified,Exploration-Driven,Gentle-Caring,Laid-Back Trendsetters,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+41,FEMALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Gentle-Caring,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+42,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Naturally Healthy,Cultural Heritage Influencers,True,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+43,MALE,18-25,Very familiar,Not Specified,Nature inspired,Naturally Healthy,Other,False,Trust-Based Influence,Budget-Conscious Consumers,Wellness-Oriented Consumer
+44,MALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Naturally Healthy,Cultural Heritage Influencers,True,Evidence-Driven Motivation,Mid-Range Value Seekers,Wellness-Oriented Consumer
+45,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Personalization-Focused,Laid-Back Trendsetters,False,Evidence-Driven Motivation,Mid-Range Value Seekers,Young Digital Native
+46,FEMALE,18-25,Somewhat familiar,Not Specified,Exploration-Driven,Personalization-Focused,Laid-Back Trendsetters,True,Trust-Based Influence,Premium Product Enthusiasts,Young Digital Native
+47,,18-25,Somewhat familiar,Not Specified,Time-Pressed,Naturally Healthy,Tech-Savvy Innovators,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+48,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Gentle-Caring,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Young Digital Native
+49,FEMALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Personalization-Focused,Cultural Heritage Influencers,False,Other,Budget-Conscious Consumers,Budget-Conscious Achiever
+50,FEMALE,18-25,Very familiar,Not Specified,Relaxation-Seeking,Gentle-Caring,Cultural Heritage Influencers,False,Natural Product Appeal,Mid-Range Value Seekers,Wellness-Oriented Consumer
+51,MALE,18-25,Very familiar,Not Specified,Nature inspired,Naturally Healthy,Cultural Heritage Influencers,True,Evidence-Driven Motivation,Mid-Range Value Seekers,Wellness-Oriented Consumer
+52,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Other,Laid-Back Trendsetters,False,Natural Product Appeal,Budget-Conscious Consumers,Young Digital Native
+53,FEMALE,18-25,Never heard of it,Not Specified,Time-Pressed,Personalization-Focused,Cultural Heritage Influencers,False,Natural Product Appeal,Budget-Conscious Consumers,Young Digital Native
+54,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Other,Laid-Back Trendsetters,True,Trust-Based Influence,Quality-Oriented Buyers,Budget-Conscious Achiever
+55,FEMALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Gentle-Caring,Tech-Savvy Innovators,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+56,MALE,18-25,Somewhat familiar,Not Specified,Exploration-Driven,Naturally Healthy,Tech-Savvy Innovators,False,Natural Product Appeal,Mid-Range Value Seekers,Budget-Conscious Achiever
+57,FEMALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Naturally Healthy,Science Experts,False,Trust-Based Influence,Mid-Range Value Seekers,Budget-Conscious Achiever
+58,FEMALE,18-25,Very familiar,Not Specified,Relaxation-Seeking,Personalization-Focused,Cultural Heritage Influencers,True,Afordability,Budget-Conscious Consumers,Wellness-Oriented Consumer
+59,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Gentle-Caring,Science Experts,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+60,MALE,18-25,Never heard of it,Not Specified,Exploration-Driven,Naturally Healthy,Science Experts,False,Evidence-Driven Motivation,Luxury Brand Believers,Young Digital Native
+61,MALE,18-25,Very familiar,Not Specified,Cost-Aware,Gentle-Caring,Laid-Back Trendsetters,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+62,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Personalization-Focused,Tech-Savvy Innovators,False,Other,Quality-Oriented Buyers,Young Digital Native
+63,MALE,18-25,Never heard of it,Not Specified,Nature inspired,Naturally Healthy,Laid-Back Trendsetters,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+64,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Image-Driven,Cultural Heritage Influencers,True,Trust-Based Influence,Premium Product Enthusiasts,Budget-Conscious Achiever
+65,FEMALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Gentle-Caring,Tech-Savvy Innovators,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+66,MALE,18-25,Never heard of it,Not Specified,Exploration-Driven,Gentle-Caring,Cultural Heritage Influencers,False,Trust-Based Influence,Budget-Conscious Consumers,Young Digital Native
+67,MALE,18-25,Very familiar,Not Specified,Nature inspired,Naturally Healthy,Cultural Heritage Influencers,True,Trust-Based Influence,Mid-Range Value Seekers,Wellness-Oriented Consumer
+68,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Personalization-Focused,Laid-Back Trendsetters,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+69,FEMALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Naturally Healthy,Cultural Heritage Influencers,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+70,FEMALE,18-25,Never heard of it,Not Specified,Nature inspired,Image-Driven,Laid-Back Trendsetters,False,Trust-Based Influence,Premium Product Enthusiasts,Wellness-Oriented Consumer
+71,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Personalization-Focused,Laid-Back Trendsetters,False,Natural Product Appeal,Luxury Brand Believers,Young Digital Native
+72,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Naturally Healthy,Cultural Heritage Influencers,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+73,MALE,18-25,Very familiar,Not Specified,Relaxation-Seeking,Image-Driven,Other,True,Afordability,Budget-Conscious Consumers,Wellness-Oriented Consumer
+74,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Gentle-Caring,Tech-Savvy Innovators,True,Afordability,Budget-Conscious Consumers,Wellness-Oriented Consumer
+75,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Personalization-Focused,Science Experts,False,Natural Product Appeal,Budget-Conscious Consumers,Young Digital Native
+76,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Personalization-Focused,Tech-Savvy Innovators,True,Evidence-Driven Motivation,Mid-Range Value Seekers,Young Digital Native
+77,MALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Personalization-Focused,Science Experts,True,Natural Product Appeal,Quality-Oriented Buyers,Wellness-Oriented Consumer
+78,MALE,18-25,Never heard of it,Not Specified,Exploration-Driven,Naturally Healthy,Science Experts,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+79,FEMALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Personalization-Focused,Science Experts,True,Trust-Based Influence,Mid-Range Value Seekers,Wellness-Oriented Consumer
+80,MALE,18-25,Very familiar,Not Specified,Nature inspired,Naturally Healthy,Cultural Heritage Influencers,True,Evidence-Driven Motivation,Mid-Range Value Seekers,Wellness-Oriented Consumer
+81,FEMALE,18-25,Never heard of it,Not Specified,Cost-Aware,Naturally Healthy,Science Experts,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+82,MALE,18-25,Very familiar,Not Specified,Cost-Aware,Gentle-Caring,Laid-Back Trendsetters,True,Trust-Based Influence,Premium Product Enthusiasts,Wellness-Oriented Consumer
+83,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Personalization-Focused,Cultural Heritage Influencers,True,Afordability,Quality-Oriented Buyers,Young Digital Native
+84,MALE,18-25,Very familiar,Not Specified,Time-Pressed,Other,Science Experts,True,Evidence-Driven Motivation,Mid-Range Value Seekers,Uncategorized
+85,MALE,18-25,Never heard of it,Not Specified,Cost-Aware,Naturally Healthy,Laid-Back Trendsetters,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+86,FEMALE,18-25,Very familiar,Not Specified,Time-Pressed,Naturally Healthy,Other,False,Trust-Based Influence,Premium Product Enthusiasts,Wellness-Oriented Consumer
+87,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Image-Driven,Laid-Back Trendsetters,False,Natural Product Appeal,Budget-Conscious Consumers,Budget-Conscious Achiever
+88,MALE,18-25,Somewhat familiar,Not Specified,Exploration-Driven,Other,Laid-Back Trendsetters,True,Other,Mid-Range Value Seekers,Uncategorized
+89,FEMALE,18-25,Never heard of it,Not Specified,Cost-Aware,Personalization-Focused,Science Experts,True,Natural Product Appeal,Budget-Conscious Consumers,Budget-Conscious Achiever
+90,MALE,18-25,Somewhat familiar,Not Specified,Exploration-Driven,Naturally Healthy,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Premium Product Enthusiasts,Young Digital Native
+91,FEMALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Naturally Healthy,Cultural Heritage Influencers,True,Afordability,Quality-Oriented Buyers,Wellness-Oriented Consumer
+92,MALE,18-25,Very familiar,Not Specified,Relaxation-Seeking,Naturally Healthy,Laid-Back Trendsetters,False,Evidence-Driven Motivation,Premium Product Enthusiasts,Wellness-Oriented Consumer
+93,FEMALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Naturally Healthy,Laid-Back Trendsetters,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+94,MALE,18-25,Very familiar,Not Specified,Cost-Aware,Gentle-Caring,Science Experts,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+95,FEMALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Naturally Healthy,Cultural Heritage Influencers,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+96,FEMALE,40 +,Very familiar,Not Specified,Relaxation-Seeking,Personalization-Focused,Laid-Back Trendsetters,True,Trust-Based Influence,Mid-Range Value Seekers,Wellness-Oriented Consumer
+97,MALE,18-25,Very familiar,Not Specified,Time-Pressed,Naturally Healthy,Tech-Savvy Innovators,True,Trust-Based Influence,Luxury Brand Believers,Wellness-Oriented Consumer
+98,MALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Gentle-Caring,Laid-Back Trendsetters,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+99,MALE,18-25,Somewhat familiar,Not Specified,Exploration-Driven,Naturally Healthy,Cultural Heritage Influencers,True,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+100,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Naturally Healthy,Tech-Savvy Innovators,False,Trust-Based Influence,Luxury Brand Believers,Young Digital Native
+101,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Personalization-Focused,Laid-Back Trendsetters,False,Afordability,Budget-Conscious Consumers,Young Digital Native
+102,MALE,18-25,Somewhat familiar,Not Specified,Exploration-Driven,Naturally Healthy,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Premium Product Enthusiasts,Young Digital Native
+103,FEMALE,18-25,Very familiar,Not Specified,Cost-Aware,Image-Driven,Laid-Back Trendsetters,True,Trust-Based Influence,Mid-Range Value Seekers,Budget-Conscious Achiever
+104,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Other,Science Experts,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+105,MALE,18-25,Somewhat familiar,Not Specified,Exploration-Driven,Naturally Healthy,Laid-Back Trendsetters,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+106,FEMALE,18-25,Never heard of it,Not Specified,Time-Pressed,Other,Other,True,Other,Mid-Range Value Seekers,Uncategorized
+107,MALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Gentle-Caring,Laid-Back Trendsetters,False,Evidence-Driven Motivation,Quality-Oriented Buyers,Budget-Conscious Achiever
+108,FEMALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Naturally Healthy,Cultural Heritage Influencers,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+109,FEMALE,18-25,Never heard of it,Not Specified,Time-Pressed,Personalization-Focused,Tech-Savvy Innovators,False,Natural Product Appeal,Budget-Conscious Consumers,Young Digital Native
+110,MALE,18-25,Never heard of it,Not Specified,Nature inspired,Naturally Healthy,Cultural Heritage Influencers,True,Other,Budget-Conscious Consumers,Wellness-Oriented Consumer
+111,MALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Naturally Healthy,Cultural Heritage Influencers,True,Natural Product Appeal,Budget-Conscious Consumers,Wellness-Oriented Consumer
+112,MALE,18-25,Somewhat familiar,Not Specified,Nature inspired,Naturally Healthy,Cultural Heritage Influencers,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+113,MALE,18-25,Never heard of it,Not Specified,Time-Pressed,Naturally Healthy,Laid-Back Trendsetters,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+114,FEMALE,18-25,Somewhat familiar,Not Specified,Cost-Aware,Naturally Healthy,Cultural Heritage Influencers,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+115,MALE,18-25,Never heard of it,Not Specified,Exploration-Driven,Naturally Healthy,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+116,MALE,18-25,Somewhat familiar,Not Specified,Time-Pressed,Naturally Healthy,Laid-Back Trendsetters,False,Trust-Based Influence,Quality-Oriented Buyers,Young Digital Native
+117,FEMALE,18-25,Never heard of it,Not Specified,Time-Pressed,Gentle-Caring,Tech-Savvy Innovators,False,Trust-Based Influence,Budget-Conscious Consumers,Young Digital Native
+118,FEMALE,18-25,Somewhat familiar,Not Specified,Exploration-Driven,Gentle-Caring,Cultural Heritage Influencers,True,Afordability,Mid-Range Value Seekers,Wellness-Oriented Consumer
+119,FEMALE,18-25,Somewhat familiar,Rural Market,Time-Pressed,Image-Driven,Laid-Back Trendsetters,False,Trust-Based Influence,Mid-Range Value Seekers,Budget-Conscious Achiever
+120,FEMALE,25-40,Very familiar,Urban Professional Market,Relaxation-Seeking,Gentle-Caring,Science Experts,False,Natural Product Appeal,Mid-Range Value Seekers,Wellness-Oriented Consumer
+121,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Relaxation-Seeking,Naturally Healthy,Cultural Heritage Influencers,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+122,MALE,18-25,Somewhat familiar,Emerging Urban Market,Time-Pressed,Gentle-Caring,Tech-Savvy Innovators,False,Natural Product Appeal,Budget-Conscious Consumers,Budget-Conscious Achiever
+123,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Relaxation-Seeking,Naturally Healthy,Cultural Heritage Influencers,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+124,MALE,18-25,Somewhat familiar,Urban Professional Market,Nature inspired,Gentle-Caring,Science Experts,False,Evidence-Driven Motivation,Mid-Range Value Seekers,Budget-Conscious Achiever
+125,MALE,25-40,Never heard of it,Urban Professional Market,Time-Pressed,Personalization-Focused,Tech-Savvy Innovators,False,Afordability,Budget-Conscious Consumers,Young Digital Native
+126,FEMALE,18-25,Very familiar,Emerging Urban Market,Nature inspired,Naturally Healthy,Science Experts,True,Trust-Based Influence,Luxury Brand Believers,Wellness-Oriented Consumer
+127,FEMALE,18-25,Very familiar,Urban Professional Market,Relaxation-Seeking,Gentle-Caring,Science Experts,True,Trust-Based Influence,Mid-Range Value Seekers,Wellness-Oriented Consumer
+128,FEMALE,40 +,Somewhat familiar,Rural Market,Relaxation-Seeking,Naturally Healthy,Cultural Heritage Influencers,True,Natural Product Appeal,Budget-Conscious Consumers,Wellness-Oriented Consumer
+129,FEMALE,18-25,Very familiar,Urban Professional Market,Time-Pressed,Gentle-Caring,Tech-Savvy Innovators,False,Other,Luxury Brand Believers,Wellness-Oriented Consumer
+130,MALE,18-25,Somewhat familiar,Emerging Urban Market,Time-Pressed,Naturally Healthy,Cultural Heritage Influencers,True,Afordability,Mid-Range Value Seekers,Budget-Conscious Achiever
+131,FEMALE,18-25,Never heard of it,Urban Professional Market,Time-Pressed,Other,Other,False,Other,Budget-Conscious Consumers,Young Digital Native
+132,MALE,18-25,Somewhat familiar,Urban Professional Market,Nature inspired,Naturally Healthy,Science Experts,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+133,MALE,18-25,Somewhat familiar,Urban Professional Market,Exploration-Driven,Gentle-Caring,Cultural Heritage Influencers,True,Trust-Based Influence,Quality-Oriented Buyers,Wellness-Oriented Consumer
+134,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Cost-Aware,Naturally Healthy,Laid-Back Trendsetters,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+135,MALE,18-25,Somewhat familiar,Urban Professional Market,Time-Pressed,Other,Tech-Savvy Innovators,False,Evidence-Driven Motivation,Mid-Range Value Seekers,Budget-Conscious Achiever
+136,MALE,18-25,Somewhat familiar,Urban Professional Market,Cost-Aware,Naturally Healthy,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Mid-Range Value Seekers,Budget-Conscious Achiever
+137,MALE,18-25,Never heard of it,Urban Professional Market,Exploration-Driven,Personalization-Focused,Science Experts,False,Evidence-Driven Motivation,Quality-Oriented Buyers,Young Digital Native
+138,FEMALE,25-40,Never heard of it,Urban Professional Market,Relaxation-Seeking,Naturally Healthy,Tech-Savvy Innovators,False,Afordability,Budget-Conscious Consumers,Wellness-Oriented Consumer
+139,MALE,18-25,Somewhat familiar,Urban Professional Market,Relaxation-Seeking,Naturally Healthy,Science Experts,True,Evidence-Driven Motivation,Mid-Range Value Seekers,Wellness-Oriented Consumer
+140,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Time-Pressed,Naturally Healthy,Cultural Heritage Influencers,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+141,MALE,18-25,Somewhat familiar,Rural Market,Nature inspired,Naturally Healthy,Tech-Savvy Innovators,True,Trust-Based Influence,Mid-Range Value Seekers,Wellness-Oriented Consumer
+142,MALE,18-25,Very familiar,Urban Professional Market,Exploration-Driven,Image-Driven,Tech-Savvy Innovators,True,Natural Product Appeal,Quality-Oriented Buyers,Wellness-Oriented Consumer
+143,FEMALE,25-40,Very familiar,Urban Professional Market,Nature inspired,Naturally Healthy,Laid-Back Trendsetters,True,Trust-Based Influence,Luxury Brand Believers,Wellness-Oriented Consumer
+144,MALE,25-40,Somewhat familiar,Urban Professional Market,Cost-Aware,Gentle-Caring,Cultural Heritage Influencers,False,Natural Product Appeal,Budget-Conscious Consumers,Budget-Conscious Achiever
+145,FEMALE,18-25,Very familiar,Emerging Urban Market,Nature inspired,Personalization-Focused,Science Experts,True,Other,Premium Product Enthusiasts,Wellness-Oriented Consumer
+146,MALE,18-25,Very familiar,Urban Professional Market,Cost-Aware,Gentle-Caring,Cultural Heritage Influencers,True,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+147,MALE,18-25,Never heard of it,Urban Professional Market,Time-Pressed,Gentle-Caring,Other,False,Trust-Based Influence,Mid-Range Value Seekers,Young Digital Native
+148,MALE,18-25,Somewhat familiar,Urban Professional Market,Nature inspired,Naturally Healthy,Laid-Back Trendsetters,False,Natural Product Appeal,Budget-Conscious Consumers,Budget-Conscious Achiever
+149,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Cost-Aware,Naturally Healthy,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Quality-Oriented Buyers,Budget-Conscious Achiever
+150,MALE,25-40,Never heard of it,Emerging Urban Market,Cost-Aware,Naturally Healthy,Science Experts,True,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+151,MALE,18-25,Somewhat familiar,Urban Professional Market,Nature inspired,Image-Driven,Laid-Back Trendsetters,False,Trust-Based Influence,Quality-Oriented Buyers,Wellness-Oriented Consumer
+152,MALE,18-25,Somewhat familiar,Rural Market,Cost-Aware,Gentle-Caring,Other,True,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+153,MALE,25-40,Somewhat familiar,Urban Professional Market,Time-Pressed,Naturally Healthy,Tech-Savvy Innovators,False,Afordability,Luxury Brand Believers,Young Digital Native
+154,MALE,25-40,Somewhat familiar,Emerging Urban Market,Time-Pressed,Personalization-Focused,Cultural Heritage Influencers,False,Trust-Based Influence,Budget-Conscious Consumers,Young Digital Native
+155,MALE,18-25,Somewhat familiar,Urban Professional Market,Cost-Aware,Personalization-Focused,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Quality-Oriented Buyers,Budget-Conscious Achiever
+156,MALE,18-25,Somewhat familiar,Urban Professional Market,Nature inspired,Gentle-Caring,Cultural Heritage Influencers,True,Trust-Based Influence,Mid-Range Value Seekers,Wellness-Oriented Consumer
+157,MALE,18-25,Somewhat familiar,Urban Professional Market,Cost-Aware,Naturally Healthy,Cultural Heritage Influencers,False,Natural Product Appeal,Budget-Conscious Consumers,Budget-Conscious Achiever
+158,MALE,18-25,Somewhat familiar,Rural Market,Exploration-Driven,Gentle-Caring,Cultural Heritage Influencers,True,Evidence-Driven Motivation,Mid-Range Value Seekers,Wellness-Oriented Consumer
+159,MALE,18-25,Somewhat familiar,Urban Professional Market,Exploration-Driven,Naturally Healthy,Science Experts,True,Evidence-Driven Motivation,Luxury Brand Believers,Wellness-Oriented Consumer
+160,MALE,18-25,Somewhat familiar,Urban Professional Market,Nature inspired,Naturally Healthy,Laid-Back Trendsetters,False,Evidence-Driven Motivation,Quality-Oriented Buyers,Wellness-Oriented Consumer
+161,MALE,18-25,Never heard of it,Urban Professional Market,Cost-Aware,Personalization-Focused,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Budget-Conscious Achiever
+162,MALE,25-40,Very familiar,Emerging Urban Market,Exploration-Driven,Naturally Healthy,Cultural Heritage Influencers,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+163,FEMALE,18-25,Somewhat familiar,Emerging Urban Market,Relaxation-Seeking,Personalization-Focused,Cultural Heritage Influencers,False,Afordability,Budget-Conscious Consumers,Budget-Conscious Achiever
+164,MALE,18-25,Very familiar,Urban Professional Market,Relaxation-Seeking,Gentle-Caring,Cultural Heritage Influencers,True,Trust-Based Influence,Mid-Range Value Seekers,Wellness-Oriented Consumer
+165,MALE,18-25,Somewhat familiar,Urban Professional Market,Relaxation-Seeking,Naturally Healthy,Tech-Savvy Innovators,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+166,MALE,18-25,Somewhat familiar,Urban Professional Market,Time-Pressed,Naturally Healthy,Tech-Savvy Innovators,False,Natural Product Appeal,Quality-Oriented Buyers,Young Digital Native
+167,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Time-Pressed,Naturally Healthy,Cultural Heritage Influencers,True,Trust-Based Influence,Budget-Conscious Consumers,Wellness-Oriented Consumer
+168,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Time-Pressed,Naturally Healthy,Science Experts,False,Trust-Based Influence,Budget-Conscious Consumers,Budget-Conscious Achiever
+169,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Cost-Aware,Personalization-Focused,Cultural Heritage Influencers,True,Natural Product Appeal,Budget-Conscious Consumers,Budget-Conscious Achiever
+170,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Time-Pressed,Image-Driven,Laid-Back Trendsetters,False,Evidence-Driven Motivation,Premium Product Enthusiasts,Young Digital Native
+171,FEMALE,18-25,Never heard of it,Rural Market,Nature inspired,Naturally Healthy,Cultural Heritage Influencers,False,Evidence-Driven Motivation,Budget-Conscious Consumers,Wellness-Oriented Consumer
+172,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Relaxation-Seeking,Naturally Healthy,Cultural Heritage Influencers,False,Afordability,Mid-Range Value Seekers,Budget-Conscious Achiever
+173,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Exploration-Driven,Gentle-Caring,Cultural Heritage Influencers,False,Afordability,Mid-Range Value Seekers,Budget-Conscious Achiever
+174,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Relaxation-Seeking,Naturally Healthy,Cultural Heritage Influencers,True,Trust-Based Influence,Budget-Conscious Consumers,Wellness-Oriented Consumer
+175,FEMALE,18-25,Very familiar,Urban Professional Market,Exploration-Driven,Naturally Healthy,Science Experts,True,Natural Product Appeal,Mid-Range Value Seekers,Wellness-Oriented Consumer
+176,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Cost-Aware,Image-Driven,Laid-Back Trendsetters,True,Evidence-Driven Motivation,Mid-Range Value Seekers,Budget-Conscious Achiever
+177,MALE,18-25,Never heard of it,Urban Professional Market,Time-Pressed,Personalization-Focused,Cultural Heritage Influencers,False,Afordability,Budget-Conscious Consumers,Young Digital Native
+178,FEMALE,18-25,Somewhat familiar,Urban Professional Market,Relaxation-Seeking,Naturally Healthy,Science Experts,True,Natural Product Appeal,Quality-Oriented Buyers,Wellness-Oriented Consumer
+179,FEMALE,18-25,Never heard of it,Urban Professional Market,Cost-Aware,Other,Cultural Heritage Influencers,True,Afordability,Quality-Oriented Buyers,Wellness-Oriented Consumer
+180,FEMALE,18-25,Very familiar,Emerging Urban Market,Relaxation-Seeking,Naturally Healthy,Tech-Savvy Innovators,True,Afordability,Mid-Range Value Seekers,Wellness-Oriented Consumer
+181,FEMALE,18-25,Never heard of it,Urban Professional Market,Exploration-Driven,Image-Driven,Science Experts,False,Trust-Based Influence,Quality-Oriented Buyers,Young Digital Native
