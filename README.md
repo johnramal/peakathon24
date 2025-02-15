@@ -4,8 +4,6 @@ This repository contains the analysis and insights generated for the **P&G Peaka
 
 ---
 
----
-
 ## Project Overview
 
 ### Case Study
@@ -49,11 +47,10 @@ This repository contains the analysis and insights generated for the **P&G Peaka
 
 ### Final Submission
 - **Submission PDF**:  
-  - File: **[balor.pdf](https://github.com/johnramal/peakathon24/blob/master/submission/balor.pdf)**  
+  - File: **[balor.pdf](https://github.com/johnramal/peakathon24/raw/master/submission/balor.pdf)**  
   - Description: The final submission PDF containing recommendations and insights.  
 
-  **Embedded PDF**:  
-  <iframe src="https://docs.google.com/viewer?url=https://github.com/johnramal/peakathon24/raw/master/submission/balor.pdf&embedded=true" style="width:100%; height:500px;" frameborder="0"></iframe>
+  **View PDF**: [Click here to view the submission PDF](https://github.com/johnramal/peakathon24/raw/master/submission/balor.pdf)
 
 ---
 
