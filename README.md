@@ -65,10 +65,9 @@ This repository contains the analysis and insights generated for the **P&G Peaka
 
 ## Tools and Technologies Used
 - **Python**: For data cleaning, analysis, and visualization.
-- **Pandas**: For data wrangling and manipulation.
+- **Pandas & Numpy**: For data wrangling and manipulation.
 - **Matplotlib/Seaborn**: For data visualization.
-- **Statistical Tests**: For validating pricing strategies.
-- **Google Sheets/Excel**: For survey data collection.
+- **Google Forms**: For survey data collection.
 - **Canva**: For creating the roadmap visual.
 - **SankeyMATIC**: For creating the budget and cost Sankey diagram.
 
